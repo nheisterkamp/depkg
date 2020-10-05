@@ -1,0 +1,15 @@
+{
+  "name": "depkg",
+  "bin": {
+    "depkg": "./index.js"
+  },
+  "version": "0.0.1",
+  "description": "Simple utility to extract binaries created with pkg.",
+  "main": "index.js",
+  "keywords": ["pkg"],
+  "author": "Niels Heisterkamp <niels@ineffable.nL>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
