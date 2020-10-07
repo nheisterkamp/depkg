@@ -3,7 +3,7 @@
   "bin": {
     "depkg": "./index.js"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple utility to extract binaries created with pkg.",
   "main": "index.js",
   "keywords": ["pkg"],
